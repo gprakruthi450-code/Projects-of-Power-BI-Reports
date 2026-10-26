@@ -4,7 +4,7 @@ Power BI Reports and Interactive Dashboards for Data Visualization,Business Insi
 #HR Analytics DASHBOARD
 
 ## Dashboard Preview
-![HR Analytics Dashboard]
+[HR Analytics Dashboard]
 (./HR Analytics Report POWER BI.pbix)
 
 ## Power BI Report
